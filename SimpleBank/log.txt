@@ -1,0 +1,5 @@
+Realiza Transaccion| DATETIME:20-10-2021 03:00:49
+Realiza Transaccion| DATETIME:20-10-2021 03:01:25
+Realiza Transaccion| DATETIME:20-10-2021 03:02:27
+Realiza Transaccion| DATETIME:20-10-2021 03:04:27
+Realiza Transaccion| DATETIME:20-10-2021 03:05:33
